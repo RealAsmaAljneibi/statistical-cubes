@@ -184,6 +184,14 @@ If you use the Statistical Cube Builder in a course or paper, please cite:
 
 The Employee Cube classifications follow the Abu Dhabi Reference Data (ADRD) catalogue published by the Statistics Centre - Abu Dhabi: https://scad.gov.ae/abu-dhabi-reference-classifications.
 
+## Funding and institutional support
+
+This tool was developed under the sponsorship of the **Statistics Centre - Abu Dhabi (SCAD)**, United Arab Emirates. The work was carried out within SCAD's Statistical Training Institute and reflects the organisation's commitment to building capacity in official statistics methodology across government analysts and early-career practitioners.
+
+For enquiries, contact: sti@scad.gov.ae
+
+---
+
 ## License
 
 MIT, see `LICENSE`.
