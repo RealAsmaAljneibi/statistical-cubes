@@ -1,6 +1,23 @@
 MIT License
 
-Copyright (c) 2026 Statistics Centre - Abu Dhabi contributors
+Copyright (c) 2026 Statistics Centre - Abu Dhabi
+
+Authors:
+  Shamsa Almheiri¹, Asma Aljneibi², Mariam Alshehhi³, and Statistical Training Institute⁴
+
+  ¹ Statistics Centre - Abu Dhabi, Statistical Methodology and Quality Standards Department,
+    United Arab Emirates
+  ² Statistics Centre - Abu Dhabi, Labor Force Statistics and Registers Section,
+    United Arab Emirates
+  ³ Statistics Centre - Abu Dhabi, Data Products and Engineering Department,
+    United Arab Emirates
+  ⁴ Statistics Centre - Abu Dhabi, Statistical Training Institute,
+    United Arab Emirates
+
+  Corresponding author: sti@scad.gov.ae
+
+  This tool accompanies: Almheiri et al. (forthcoming), Journal of Statistics and
+  Data Science Education.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
