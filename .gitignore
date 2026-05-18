@@ -1,0 +1,21 @@
+# Generated data (recreated by scripts/generate_data.py during CI)
+data/*.csv
+
+# Build output
+public/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.uv/
+*.egg-info/
+dist/
+
+# macOS
+.DS_Store
+
+# marimo cache
+__marimo__/
